@@ -62,9 +62,9 @@ function Resume() {
               content={[" "]}
             />
               <Resumecontent
-              title="Theni Kammavar Sangam College of Technology[B.E(CSE)] "
+              title="Theni Kammavar Sangam College of Technology[B.E(CSE)]"
               date="2016 - 2020"
-              content={[" " ]}
+              content={[" "]}
             />
             <Resumecontent
               title="12th BOARD [Angoor Rowther Government Girls Higher Secondary School]"
